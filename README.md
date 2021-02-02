@@ -3,6 +3,6 @@
 
 - git pull this
 - start runner.bat
-- OWO it Works! (Maybe)
+- OwO it Works! (Maybe)
 ### P.S. Just use HWID gen hehe
 
